@@ -392,6 +392,13 @@
       "status": "update",
       "date": "Last Updated: 07/01/2024"
     },
+    "PenguinGPT": {
+      "credits": "Using WorkingTurboGPT's source code, we made PenguinGPT! New features will come like DALL-E, etc, all for free! by RubyTeam",
+      "url": "https://raw.githubusercontent.com/kokofixcomputers/kokofixcomputers-Extensions/main/extension-code/PenguinGPT.js",
+      "tags": ".all.utilities",
+      "status": "new",
+      "date": "Uploaded on July 2, 2024"
+    },
     "Example": {
       "credits": "",
       "url": "",
